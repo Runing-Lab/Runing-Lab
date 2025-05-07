@@ -6,4 +6,4 @@
 * Runing Li, Jiangyan Dai*, Xupeng Li, Lijun Han, Chengduan Wang*, Deep Image Inpainting Incorporating Texture Prior based on Gabor Filter, In 4th EAI International Conference on Data and Information in Online Environments, EAI DIONE 2023（ Published, EI Conference ）[pdf](https://link.springer.com/chapter/10.1007/978-3-031-80713-8_3)
   
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="lift"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
