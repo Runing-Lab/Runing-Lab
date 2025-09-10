@@ -1,6 +1,6 @@
 # Personal-Homepage
 
-* 🎓 PhD candidate in Computer Science and Technology () at 🏫 [UJN](https://www.ujn.edu.cn/) (2025-Now)
+* 🎓 PhD candidate in Computer Science and Technology (Network Security) at 🏫 [UJN](https://www.ujn.edu.cn/) (2025-Now)
 * 🎓 Graduate student in Computer Science (Image Inpainting) at 🏫 [QFNU](https://www.qfnu.edu.cn/) (2022-2025)
 * 🎓 Undergraduate in Computer Science and Technology at 🏫 [QLNU](https://www.qlnu.edu.cn/) (2018-2022)
 
